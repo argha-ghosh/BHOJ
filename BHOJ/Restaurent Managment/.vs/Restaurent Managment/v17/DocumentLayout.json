@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\cashierrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\cashierrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\cashierrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\cashierrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|d:\\others\\back up\\bhoj\\restaurent managment\\restaurent managment\\restaurent managment\\viewcartcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\viewcartcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\viewcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\viewcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\viewcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\viewcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\updatemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\updatemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\updateadmininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\updateadmininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\updateadmininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\updateadmininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\staffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\staffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\customerpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\customerpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\confirmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\confirmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\cashierupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\cashierupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\cashierorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\cashiermobilepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\cashiermobilepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\admininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\admininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\admin_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\admin_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\admin_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\admin_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\cashierupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\cashierupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\confirmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\confirmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\updatemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\updatemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\staffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\staffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\admininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\admininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\cashiermobilepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\cashiermobilepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\restaurent managment\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4362DAB-6B8E-4279-8632-3CEB2D3D061E}|Restaurent Managment\\Restaurent Managment.csproj|solutionrelative:restaurent managment\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateAdminInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UpdateAdminInfo.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\UpdateAdminInfo.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UpdateAdminInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UpdateAdminInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:43:23.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UserDetails.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\UserDetails.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UserDetails.cs",
+              "RelativeToolTip": "Restaurent Managment\\UserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:51:23.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewCart.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ViewCart.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\ViewCart.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ViewCart.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ViewCart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:54:31.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewCartCS.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ViewCartCS.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\ViewCartCS.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ViewCartCS.cs",
+              "RelativeToolTip": "Restaurent Managment\\ViewCartCS.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:54:27.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CashierOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierOrder.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\CashierOrder.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierOrder.cs [Design]",
+              "RelativeToolTip": "Restaurent Managment\\CashierOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:40:43.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashierRecord.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierRecord.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\CashierRecord.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierRecord.cs [Design]",
+              "RelativeToolTip": "Restaurent Managment\\CashierRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:40:53.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierRecord.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierRecord.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\CashierRecord.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierRecord.cs",
+              "RelativeToolTip": "Restaurent Managment\\CashierRecord.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:59:57.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Interface.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\Interface.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Interface.cs",
+              "RelativeToolTip": "Restaurent Managment\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:58:10.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\PaymentMethod.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\PaymentMethod.cs",
+              "RelativeToolTip": "Restaurent Managment\\PaymentMethod.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:20:53.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\Program.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Program.cs",
+              "RelativeToolTip": "Restaurent Managment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:21:06.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StaffInfo.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\StaffInfo.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\StaffInfo.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\StaffInfo.cs",
+              "RelativeToolTip": "Restaurent Managment\\StaffInfo.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAAANMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:21:41.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateMenu.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UpdateMenu.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\UpdateMenu.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UpdateMenu.cs",
+              "RelativeToolTip": "Restaurent Managment\\UpdateMenu.cs",
+              "ViewState": "AgIAAO8BAAAAAAAAAAAAALsBAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:25:41.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewCart.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ViewCart.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\ViewCart.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ViewCart.cs",
+              "RelativeToolTip": "Restaurent Managment\\ViewCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:29:32.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerPaymentMethod.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CustomerPaymentMethod.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\CustomerPaymentMethod.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CustomerPaymentMethod.cs",
+              "RelativeToolTip": "Restaurent Managment\\CustomerPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:19:34.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfirmOrder.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ConfirmOrder.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\ConfirmOrder.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ConfirmOrder.cs",
+              "RelativeToolTip": "Restaurent Managment\\ConfirmOrder.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:58:17.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CashierUpdate.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierUpdate.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\CashierUpdate.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierUpdate.cs",
+              "RelativeToolTip": "Restaurent Managment\\CashierUpdate.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:26:08.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateAdminInfo.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UpdateAdminInfo.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\UpdateAdminInfo.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UpdateAdminInfo.cs",
+              "RelativeToolTip": "Restaurent Managment\\UpdateAdminInfo.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAFcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:52:34.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CashierOrder.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierOrder.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\CashierOrder.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierOrder.cs",
+              "RelativeToolTip": "Restaurent Managment\\CashierOrder.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAAAFEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:45:40.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CashierMobilePayment.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierMobilePayment.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\CashierMobilePayment.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierMobilePayment.cs",
+              "RelativeToolTip": "Restaurent Managment\\CashierMobilePayment.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:55:20.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Inventory.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Inventory.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\Inventory.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Inventory.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Inventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:33:21.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Inventory.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\Inventory.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Inventory.cs",
+              "RelativeToolTip": "Restaurent Managment\\Inventory.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:33:43.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\LogIn.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\LogIn.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\LogIn.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:41:52.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\LogIn.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\LogIn.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\LogIn.cs",
+              "RelativeToolTip": "Restaurent Managment\\LogIn.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACIAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:56:50.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminInterface.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\AdminInterface.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\AdminInterface.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\AdminInterface.cs",
+              "RelativeToolTip": "Restaurent Managment\\AdminInterface.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:52:08.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admin_Add.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Admin_Add.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\Admin_Add.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Admin_Add.cs",
+              "RelativeToolTip": "Restaurent Managment\\Admin_Add.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAkwF8BAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:50:05.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin_Add.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Admin_Add.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\Admin_Add.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Admin_Add.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Admin_Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:49:55.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\DataAccess.cs",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\DataAccess.cs",
+              "RelativeToolTip": "Restaurent Managment\\DataAccess.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAANEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:48:35.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Interface.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Interface.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\Interface.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Interface.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\Interface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:58:03.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CashierUpdate.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierUpdate.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\CashierUpdate.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierUpdate.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:41:36.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentMethod.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\PaymentMethod.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\PaymentMethod.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\PaymentMethod.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:55:34.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConfirmOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ConfirmOrder.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\ConfirmOrder.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ConfirmOrder.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\ConfirmOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:43:14.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UpdateMenu.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\UpdateMenu.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UpdateMenu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\UpdateMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:54:11.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StaffInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\StaffInfo.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\StaffInfo.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\StaffInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\StaffInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:54:04.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminInterface.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\AdminInterface.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\AdminInterface.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\AdminInterface.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\AdminInterface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:44:22.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\App.config",
+              "RelativeDocumentMoniker": "Restaurent Managment\\App.config",
+              "ToolTip": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\App.config",
+              "RelativeToolTip": "Restaurent Managment\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-26T09:44:23.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CashierMobilePayment.cs [Design]",
+              "DocumentMoniker": "D:\\Others\\Back Up\\BHOJ\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierMobilePayment.cs",
+              "RelativeDocumentMoniker": "Restaurent Managment\\CashierMobilePayment.cs",
+              "ToolTip": "D:\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierMobilePayment.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AIUB\\C#\\Project\\Restaurent Managment\\Restaurent Managment\\Restaurent Managment\\CashierMobilePayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:55:18.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
