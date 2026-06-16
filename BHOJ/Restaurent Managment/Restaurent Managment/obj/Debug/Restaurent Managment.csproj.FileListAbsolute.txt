@@ -1,0 +1,24 @@
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\bin\Debug\Restaurent Managment.exe.config
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\bin\Debug\Restaurent Managment.exe
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\bin\Debug\Restaurent Managment.pdb
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent Managment.csproj.AssemblyReference.cache
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.LogIn.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.Properties.Resources.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent Managment.csproj.GenerateResource.cache
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent Managment.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent Managment.exe
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent Managment.pdb
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.Interface.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.CashierMobilePayment.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.CashierOrder.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.ConfirmOrder.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.PaymentMethod.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.ViewCart.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.CashierUpdate.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.Inventory.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.AdminInterface.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.UpdateAdminInfo.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.UpdateMenu.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.StaffInfo.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.CashierRecord.resources
+D:\AIUB\C#\Project\Restaurent Managment\Restaurent Managment\Restaurent Managment\obj\Debug\Restaurent_Managment.Admin_Add_Category.resources
